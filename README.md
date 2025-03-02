@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1524-string-matching-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -48,5 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
