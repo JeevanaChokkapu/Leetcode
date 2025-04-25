@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1524-string-matching-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
