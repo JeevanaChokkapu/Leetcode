@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
