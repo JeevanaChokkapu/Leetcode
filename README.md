@@ -142,8 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
