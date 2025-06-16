@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2145-grid-game) |
 ## String Matching
