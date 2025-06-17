@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0056-merge-intervals) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
