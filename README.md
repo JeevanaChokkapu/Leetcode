@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0031-next-permutation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0031-next-permutation) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
