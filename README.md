@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
