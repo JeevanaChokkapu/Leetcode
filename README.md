@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0792-binary-search) |
+| [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0011-container-with-most-water) |
+| [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Indexed Tree
 |  |
