@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
