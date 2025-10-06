@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0020-valid-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1524-string-matching-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -295,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
