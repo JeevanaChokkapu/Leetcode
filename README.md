@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Divide and Conquer
@@ -176,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
@@ -304,9 +309,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
