@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1524-string-matching-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2145-grid-game](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1642-water-bottles) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
