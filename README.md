@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0509-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1642-water-bottles) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0509-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
