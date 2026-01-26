@@ -1,19 +1,18 @@
 class Solution {
     public int maxArea(int[] height) {
-       int max=0;
-       int i=0;int j=height.length-1;
-       while(i<j)
-       {
-        max=Math.max(max,(j-i)*Math.min(height[i],height[j]));
-       if(height[i]<height[j])
-       {
-        i++;
-       }
-       else
-       {
-        j--;
-       }
-       }
-       return max;
+        int i=0,j=height.length-1;
+        int ans=1;int max=Integer.MIN_VALUE;
+        while(i<j)
+        {
+           int maxVerticalLine=Math.min(height[i],height[j]);
+           ans=maxVerticalLine*(j-i);
+           if(height[i]<=height[j])
+           i++;
+           else
+           j--;
+          max=Math.max(max,ans);
+           
+        }
+        return max;
     }
 }
