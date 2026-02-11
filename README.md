@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/JeevanaChokkapu/Leetcode/tree/master/2145-grid-game) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3719-longest-balanced-subarray-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String Matching
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JeevanaChokkapu/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3719-longest-balanced-subarray-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JeevanaChokkapu/Leetcode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/JeevanaChokkapu/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
