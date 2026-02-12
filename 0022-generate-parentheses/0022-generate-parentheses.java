@@ -27,6 +27,8 @@ public void generateAll(String curr,int n,List<String> res)
         res.add(curr);
         return;
      }
+     if(curr.length()==1 && curr.charAt(0)==')')
+     return;
      generateAll(curr+'(',n,res);
      generateAll(curr+')',n,res);
 }
